@@ -1,2 +1,2 @@
-# database
+# dataBase
 my DataBase seeds
